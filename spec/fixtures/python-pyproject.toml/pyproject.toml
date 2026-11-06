@@ -1,4 +1,0 @@
-[project]
-name = "example"
-version = "1.2.3"
-authors = [ { name = "Captain Fancy", email = "foo@example.com" } ]
